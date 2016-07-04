@@ -1,14 +1,14 @@
-iPhoneのカメラロールにiTunes経由で動画を保存するアプリ<BR>
+# iPhoneのカメラロールにiTunes経由で動画を保存するアプリ #
 使い方 <BR>
 
-アプリをインストールしiTunesを起動する<BR>
+# アプリをインストールしiTunesを起動する #
 ![iTunes1](ITunes1.png)  
   
   
-アプリのファイル共有でMovieLibを選択、動画ファイルをドラッグする  <BR><BR><BR><BR>
+# アプリのファイル共有でMovieLibを選択、動画ファイルをドラッグする  #
   
 ![iTunes2](iTunes2.png) <BR>
 
-# アプリを起動する  <BR>
+# アプリを起動する  #
 
 ![iTunes3](ITunes3.png)
