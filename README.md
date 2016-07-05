@@ -11,4 +11,4 @@
 
 # アプリを起動する  #
 
-![iTunes3](http://mapgrid.sakura.ne.jp/iTunes3.png)
+![iTunes3](iTunes3.png)
